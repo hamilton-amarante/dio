@@ -19,6 +19,6 @@ git init
 ## Referências
 -[Digital Innovation One]().
 
-Hamilton C. amarante
+Hamilton C. amarante.
 
 
